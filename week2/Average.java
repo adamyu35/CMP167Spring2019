@@ -17,7 +17,7 @@ public static void  main (String [] args) {
 	System.out.println("\n******************");
 	
 	for(int i=1; i<=n; i++)
-		sum += 1;
+		sum += i;
 	
 	int average = sum/n;
 	
